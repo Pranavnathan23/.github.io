@@ -141,16 +141,10 @@ h1, h2, h3, h4, h5, h6 {
 /* Desktop Navigation */
 .nav-menu {
   margin-top: 35px;
-  margin-left: 20px;
+ 
 }
 
-.site-title {
-    margin-right: 20px !important;
-}
 
-.nav-menu {
-    margin-left: 20px !important;
-}
 
 .nav-menu ul {
   display: flex;
