@@ -141,6 +141,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Desktop Navigation */
 .nav-menu {
   margin-top: 35px;
+  margin-left: 20px;
 }
 
 .nav-menu ul {
@@ -150,9 +151,6 @@ h1, h2, h3, h4, h5, h6 {
   list-style: none;
 }
 
-.size-title {
-   margin-right: 20px;
-}
 
 .nav-menu li + li {
   margin-left: 30px;
